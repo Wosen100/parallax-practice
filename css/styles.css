@@ -1,9 +1,63 @@
 /* font-family: 'Hina Mincho', serif; */
 
-.jumbotron {
-    background-image: url(../images/computer.jpg);
+.parallax {
+    background-image: url(./Images/full-image.jpg);
+
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
-    width: 100%;
-    background-color: #01010161;
-    background-blend-mode: darken;
+   
 }
+h1 {
+     /* align-items: center;  */
+     /* justify-content: flex-end;  */
+    text-align: center;
+    font-family: cursive;
+    color:brown
+    
+}
+
+.second {
+    background-image: url(./Images/photo-1593642634315-48f5414c3ad9.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.third{
+    background-image: url(./Images/photo-1444464666168-49d633b86797.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.fourth {
+    background-image: url(./Images/photo-1586227740560-8cf2732c1531.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.fifth {
+    background-image: url(./Images/redMoon.jpg);
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
